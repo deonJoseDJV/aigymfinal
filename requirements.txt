@@ -1,20 +1,8 @@
 streamlit==1.54.0
-<<<<<<< HEAD
 streamlit-webrtc==0.64.5
 mediapipe==0.10.14
 opencv-python-headless==4.10.0.84
 pandas==2.2.3
 groq>=0.12.0
-=======
-streamlit-webrtc==0.47.9
-aiortc==1.9.0
-av==12.3.0
-mediapipe==0.10.35
-opencv-python-headless==4.10.0.84
-numpy==1.26.4
-pandas==2.2.3
-groq==0.12.0
-httpx==0.27.2
->>>>>>> 561c5434cc97675bc854033673a6ad4afc574682
 gtts==2.5.3
 python-dotenv==1.2.2
